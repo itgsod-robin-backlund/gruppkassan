@@ -1,0 +1,23 @@
+body {
+    background-color: #eeeeee;
+    margin: 0px;
+}
+#menu {
+    width: 100%;
+    height: 110px;
+    background-color: white;
+    position: fixed;
+    animation-duration: 2s;
+}
+#page1 {
+    height: 800px;
+    width: 100%;
+    background-color: #eeeeee;
+    float: left;
+}
+#direction-waypoint {
+    height: 800px;
+    width: 100%;
+    background-color: #4488e8;
+    float: left;
+}
